@@ -70,10 +70,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
+<!--
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bohdanian&theme=highcontrast)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bohdanian&show_icons=true&layout=compact&theme=dark)
-
+-->
 
 
 
