@@ -12,7 +12,7 @@
       <p>🌱 Specialize Odoo Platform & Spring Boot 🎨</p>
 </h1>
 
-![Github profile views](https://komarev.com/ghpvc/?username=bohdanian&color=blue&style=plastic&label=Github+Profile+views&base=1020)
+![Github profile views](https://komarev.com/ghpvc/?username=oleksandar&color=blue&style=plastic&label=Github+Profile+views&base=1020)
 
 <div align="center">
   <img src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif" width="600" height="300"/>
@@ -26,7 +26,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I go to scuber diving and read tech articles on LinkedIn and Medium.
 
-- :mailbox:How to reach me: [![Telegrame Badge](https://img.shields.io/badge/-bohdanian-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/+GObX82fgG2g2NjA5)
+- :mailbox:How to reach me: [![Telegrame Badge](https://img.shields.io/badge/-oleksandar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/+GObX82fgG2g2NjA5)
 
 ---
 
@@ -71,17 +71,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 <!--
-![GitHub Streak](https://streak-stats.demolab.com/?user=bohdanian&theme=highcontrast)
+![GitHub Streak](https://streak-stats.demolab.com/?user=oleksandar&theme=highcontrast)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bohdanian&show_icons=true&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleksandar&show_icons=true&layout=compact&theme=dark)
 -->
 
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=bohdanian&column=-1&margin-w=10&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=oleksandar&column=-1&margin-w=10&theme=radical)
 
 <!--
-**bohdan/bohdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
